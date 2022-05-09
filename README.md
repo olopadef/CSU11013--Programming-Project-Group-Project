@@ -1,5 +1,5 @@
 # CSU11013-Programming-Project
-Final group programming project from CSU11013
+Final group programming project from CSU11013 using Processing and SmartSVN
 
 Group members:
 
